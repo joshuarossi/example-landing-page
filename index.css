@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  #featured-products {
+    background-color: lightyellow;
+    padding: 20px;
+  }
+  
+  #browse-collection, #blog {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  #browse-collection ul, #blog a {
+    list-style: none;
+    text-decoration: none;
+    color: darkblue;
+  }
+  
+  footer {
+    text-align: center;
+    font-style: italic;
+  }
+  
